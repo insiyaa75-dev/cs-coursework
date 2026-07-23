@@ -1,2 +1,2 @@
 # cs-coursework
-Coursework, practice problems, and standalone projects from my Object-Oriented Programming course, organized by topic.
+Coursework, practice problems,  &amp; and standalone projects from my Object-Oriented Programming course, organized by topic.
